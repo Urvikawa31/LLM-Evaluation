@@ -1,0 +1,24 @@
+# Hugging Face cache
+*/hf_cache/*
+*/models--/
+
+# LLM / Model files
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+*.h5
+*.gguf
+
+.env
+
+# Virtual env
+venv312/
+
+# Python
+_pycache_/
+.ipynb_checkpoints/
+
+# Data
+data/
+datasets/
